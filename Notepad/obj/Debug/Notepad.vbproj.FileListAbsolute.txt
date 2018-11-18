@@ -1,0 +1,12 @@
+C:\Users\MOULI\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\MOULI\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\MOULI\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\MOULI\source\repos\Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.vbprojAssemblyReference.cache
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.cache
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\MOULI\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
